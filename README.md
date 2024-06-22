@@ -1,4 +1,4 @@
-# ios-Android-mac-window-linux-clash-xray-singbox-sstp-openconnect-ssh
+# ios-xray-Android-mac-window-linux-clash-xray-singbox-sstp-openconnect-ssh
 
 需要源码请联系  分别有clash和xray框架 支持常见协议，vmess+vless+ss+ssr+socks5+trojan 
 
